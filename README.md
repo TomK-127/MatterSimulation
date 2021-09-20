@@ -1,0 +1,1 @@
+Simulation for interactions between atoms in solid, liquid and gas states. Available atom selection includes gold, hydrogen and iron. Atom interaction forces are calculated and displayed on the GUI.
